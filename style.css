@@ -1,0 +1,21 @@
+.h2{
+  color: #e58d22;
+}
+body{
+  font-size: 1.3em;
+  min-height: 90vh;
+}
+form{
+  background-color: #e58d22;
+  color: white;
+}
+#a, #b, #c{
+  border: none;
+  border-bottom: solid white 3px;
+  background-color: #e58d22;
+  color: white;
+  font-size: 1em;
+}
+input[type="submit"]{
+  font-size: 1.2em;
+}
